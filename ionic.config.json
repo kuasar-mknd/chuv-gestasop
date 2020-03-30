@@ -1,0 +1,8 @@
+{
+  "name": "CHUV-Gestasop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "101a0c27"
+}
